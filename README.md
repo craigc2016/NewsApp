@@ -11,9 +11,9 @@ It uses Android's Navigation component to create and set up the linking between 
 It uses Retrofit library/ coroutines to perform network request to the news API. It uses Glide library to load
 images from the API into image views.
 
-STORAGE
+# STORAGE
 It uses Room Database to store news headlines and information locally. Coroutines is used while making 
 database queries.
 
-DI
+# DI
 Dagger2/hilt was used for dependecy injection.
