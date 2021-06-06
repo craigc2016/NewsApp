@@ -1,0 +1,266 @@
+{
+   "status":"ok",
+   "totalResults":38,
+   "articles":[
+      {
+         "source":{
+            "id":"cnn",
+            "name":"CNN"
+         },
+         "author":"Marshall Cohen, CNN",
+         "title":"Biden's DOJ appeals order to release full memo on why Trump wasn't charged with obstruction - CNN ",
+         "description":"The Justice Department is partially appealing an order to publicly release a pivotal 2019 memo about whether then-President Donald Trump obstructed the Russia investigation.",
+         "url":"https://www.cnn.com/2021/05/24/politics/william-barr-memo-trump-obstruction-doj-appeal/index.html",
+         "urlToImage":"https://cdn.cnn.com/cnnnext/dam/assets/190305093213-03-us-department-of-justice-file-super-tease.jpg",
+         "publishedAt":"2021-05-25T06:39:00Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":"reuters",
+            "name":"Reuters"
+         },
+         "author":"Renju Jose",
+         "title":"Masks, social restrictions return to Australia's Melbourne after fresh outbreak - Reuters",
+         "description":"Australia's second largest city Melbourne reinstated COVID-19 restrictions on Tuesday as authorities scrambled to find the missing link in a fresh outbreak, prompting New Zealand to pause a \"travel bubble\" with the state of Victoria.",
+         "url":"https://www.reuters.com/world/australia-reinstates-covid-19-curbs-melbourne-after-fresh-outbreak-2021-05-25/",
+         "urlToImage":"https://www.reuters.com/resizer/GYXxm-5qkGXze6TSkPUHT90yJGE=/1200x628/smart/cloudfront-us-east-2.images.arcpublishing.com/reuters/DX3AZOP4LRMUNDTE35YKWHJFXE.jpg",
+         "publishedAt":"2021-05-25T06:04:00Z",
+         "content":"Australias second largest city Melbourne reinstated COVID-19 restrictions on Tuesday as authorities scrambled to find the missing link in a fresh outbreak, prompting New Zealand to pause a travel bub… [+3228 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"CNBC"
+         },
+         "author":"Holly Ellyatt",
+         "title":"Russia's power over Belarus is in the spotlight after plane 'hijacking' incident - CNBC",
+         "description":"Russia has been steadily increasing its power and influence over its neighbor Belarus.",
+         "url":"https://www.cnbc.com/2021/05/25/russias-defense-of-belarus-hijack-shows-its-growing-influence.html",
+         "urlToImage":"https://image.cnbcfm.com/api/v1/image/106887717-1621923226133-gettyimages-1231323460-AFP_93J99K.jpeg?v=1621923275",
+         "publishedAt":"2021-05-25T05:56:25Z",
+         "content":"Russian President Vladimir Putin (L) shakes hands with Belarus President Alexander Lukashenko during their meeting in Sochi on February 22, 2021.\r\nAs global leaders expressed outrage at Belarus' \"hij… [+6909 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Denver Stiffs"
+         },
+         "author":"Gage Bridgford",
+         "title":"Recap: Denver Nuggets roll Portland Trail Blazers in Game 2 - Denver Stiffs",
+         "description":"The Denver Nuggets’ first possession was one to forget with a lost ball and a turnover before giving up a quick triple to C.J. McCollum of the Portland Trail Blazers. The two sides traded two-point...",
+         "url":"https://www.denverstiffs.com/2021/5/24/22452382/recap-denver-nuggets-roll-portland-trail-blazers-nikola-jokic-michael-porter-facu-campazzo-lillard",
+         "urlToImage":"https://cdn.vox-cdn.com/thumbor/KA0S45KM0fGjeWEyPn3vIBeyDMg=/0x246:3435x2044/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22537737/usa_today_16142789.jpg",
+         "publishedAt":"2021-05-25T04:56:48Z",
+         "content":"The Denver Nuggets first possession was one to forget with a lost ball and a turnover before giving up a quick triple to C.J. McCollum of the Portland Trail Blazers. The two sides traded two-point bu… [+9881 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"autoevolution"
+         },
+         "author":"Bogdan Popa",
+         "title":"Google Announces Highly Anticipated Google Maps Update on Android Auto - autoevolution",
+         "description":"While Google Maps is often the preferred choice for those seeking straightforward navigation on either their phones or in the car on the likes of Android Auto and CarPlay, it’s not a secret that occasional glitches still occur, sometimes making the whole expe…",
+         "url":"https://www.autoevolution.com/news/google-announces-highly-anticipated-google-maps-update-on-android-auto-161843.html",
+         "urlToImage":"https://s1.cdn.autoevolution.com/images/news/google-announces-highly-anticipated-google-maps-update-on-android-auto-161843-7.jpg",
+         "publishedAt":"2021-05-25T04:35:00Z",
+         "content":"This is what’s happening for some unlucky Android Auto users right now, as they discovered that turning to Google Maps for navigation is a major pain in the neck because the app no longer displays th… [+1354 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Sports Illustrated"
+         },
+         "author":"Michael Shapiro",
+         "title":"Aaron Rodgers Criticizes Packers' 'Philosophy' Amid Trade Rumors - Sports Illustrated",
+         "description":"Aaron Rodgers detailed his frustration with the Packers in an interview with ESPN's Kenny Mayne on Monday night.",
+         "url":"https://www.si.com/nfl/2021/05/25/aaron-rodgers-criticizes-packers-philosophy-trade-rumors",
+         "urlToImage":"https://www.si.com/.image/t_share/MTgwNzc4ODcwMzgxNzQ5MzM2/aaron-rodgers-green-bay-packers-jordan-love-business-of-football.jpg",
+         "publishedAt":"2021-05-25T04:22:04Z",
+         "content":"Jeff Hanisch/USA TODAY Sports\r\nPackers quarterback Aaron Rodgers addressed his displeasure with the organization on Monday, noting \"it's about doing things the right way.\"\r\n\"[I] love the coaching sta… [+1946 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"ESPN"
+         },
+         "author":"Kevin Arnovitz",
+         "title":"Milwaukee Bucks bury Miami Heat with 3s, drain 10 in historic first quarter - ESPN",
+         "description":"The Bucks matched an NBA record with 10 3-pointers in the first quarter of Monday's dominant win over the Miami Heat.",
+         "url":"https://www.espn.com/nba/story/_/id/31506132/milwaukee-bucks-bury-miami-heat-3s-drain-10-historic-first-quarter",
+         "urlToImage":"https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0525%2Fr858650_1296x729_16%2D9.jpg",
+         "publishedAt":"2021-05-25T04:16:35Z",
+         "content":"After a poor shooting night from long range in their overtime win over the Miami Heat in Game 1, the Milwaukee Bucks regressed to the mean in spectacular fashion in their 132-98 blowout win in Game 2… [+3430 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"KSL.com"
+         },
+         "author":"Marcia Dunn, Associated Press",
+         "title":"Cosmic 2-for-1: Total lunar eclipse combines with supermoon this week - KSL.com",
+         "description":"The first total lunar eclipse in more than two years coincides with a supermoon this week for quite a cosmic show.",
+         "url":"https://www.ksl.com/article/50172608/cosmic-2-for-1-total-lunar-eclipse-combines-with-supermoon-this-week",
+         "urlToImage":"https://img.ksl.com/slc/2824/282425/28242528.jpg?filter=ksl/responsive_story_lg",
+         "publishedAt":"2021-05-25T03:34:47Z",
+         "content":"CAPE CANAVERAL, Fla. (AP) The first total lunar eclipse in more than two years coincides with a supermoon this week for quite a cosmic show.\r\nThis super \"blood\" moon will be visible Wednesday across … [+3187 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"KCRA Sacramento"
+         },
+         "author":"Emily Maher",
+         "title":"Gov. Newsom reflects on communities devastated by wildfire, proposes boost in firefighting tools - KCRA Sacramento",
+         "description":"Newsom is proposing $2 billion to buy new equipment — like helicopters and tanks — fund forest management efforts and create fire breaks in high-risk areas. The governor also acknowledged work being done to help communities already devastated by wildfire.",
+         "url":"https://www.kcra.com/article/gavin-newsom-reflects-communities-devastated-by-wildfire/36524505",
+         "urlToImage":"https://kubrick.htvapps.com/vidthumb/d9ba6367-54a4-40e7-bb89-e1f894b87959/d9ba6367-54a4-40e7-bb89-e1f894b87959_image.jpg?crop=0.762xw:0.762xh;0.0163xw,0&resize=1200:*",
+         "publishedAt":"2021-05-25T03:03:00Z",
+         "content":"As crews battled small fires on Monday, Gov. Gavin Newsom announced historic spending to get firefighters the tools and help they need.\r\nNewsom is proposing $2 billion to buy new equipment -- like he… [+1734 chars]"
+      },
+      {
+         "source":{
+            "id":"the-hill",
+            "name":"The Hill"
+         },
+         "author":"Sarah Polus",
+         "title":"Rand Paul receives suspicious package containing white powder at home | TheHill - The Hill",
+         "description":"The FBI and Capitol Hill police are investigating a suspicious package that was delivered to...",
+         "url":"https://thehill.com/homenews/news/555202-rand-paul-receives-suspicious-package-containing-white-powder-at-home",
+         "urlToImage":"https://thehill.com/sites/default/files/paulrand_051121gn3_lead.jpg",
+         "publishedAt":"2021-05-25T02:42:30Z",
+         "content":"The FBI and Capitol Hill police are investigating a suspicious package that was delivered to the home of Sen. Rand PaulRandal (Rand) Howard PaulRand Paul receives suspicious package containing white … [+1762 chars]"
+      },
+      {
+         "source":{
+            "id":"fox-news",
+            "name":"Fox News"
+         },
+         "author":"Yael Halon",
+         "title":"COVID origins whistleblower touts vindication as media, medical pros consider lab leak theory - Fox News",
+         "description":"The United States should be aggressively investigating whether the COVID-19 virus originated from a virology lab in Wuhan, China, ex-Clinton official and WHO adviser Jamie Metzl told Tucker Carlson on Monday.",
+         "url":"https://www.foxnews.com/media/covid-origins-whistleblower-wuhan-lab-jamie-metzl",
+         "urlToImage":"https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01d0d363-faf7-4195-8594-3711b052ce59/b8fe7c8a-5709-484c-a95a-b6b140d2d16b/1280x720/match/image.jpg",
+         "publishedAt":"2021-05-25T02:15:16Z",
+         "content":"The United States should be aggressively investigating whether the COVID-19 virus originated from a virology lab in Wuhan, China, ex-Clinton administration official and World Health Organization (WHO… [+2371 chars]"
+      },
+      {
+         "source":{
+            "id":"cnn",
+            "name":"CNN"
+         },
+         "author":"Chloe Melas and Toyin Owoseje, CNN",
+         "title":"Kevin Spacey cast in first film since being accused of sexual misconduct - CNN ",
+         "description":"Kevin Spacey is set to star in his first film since being accused of sexual misconduct in 2017.",
+         "url":"https://www.cnn.com/2021/05/24/entertainment/kevin-spacey-first-film-sexual-assault-allegations/index.html",
+         "urlToImage":"https://cdn.cnn.com/cnnnext/dam/assets/190107105641-01-kevin-spacey-0107-super-tease.jpg",
+         "publishedAt":"2021-05-25T02:06:00Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Purpleptsd.com"
+         },
+         "author":"Dustin Baker",
+         "title":"Unless Adam Thielen Is Involved, Vikings Chatter About Julio Jones Is Silly - purplePTSD.com",
+         "description":"Julio Jones made an impromptu stop on the FOX Network's Undisputed show when co-host Shannon Sharpe gave the Atlanta Falcons",
+         "url":"https://purpleptsd.com/unless-adam-thielen-is-involved-vikings-chatter-about-julio-jones-is-silly/",
+         "urlToImage":"https://purpleptsd.com/wp-content/uploads/2021/05/USATSI_13330154-scaled.jpg",
+         "publishedAt":"2021-05-25T01:47:31Z",
+         "content":"Sep 8, 2019; Minneapolis, MN, USA; Atlanta Falcons wide receiver Julio Jones (11) is tackled by Minnesota Vikings safety Jayron Kearse (27) and linebacker Eric Wilson (50) and outside linebacker Ben … [+4537 chars]"
+      },
+      {
+         "source":{
+            "id":"fox-news",
+            "name":"Fox News"
+         },
+         "author":"Nate Day",
+         "title":"Lindsay Lohan to star in Netflix Christmas romcom as 'spoiled hotel heiress' - Fox News",
+         "description":"“Mean Girls” star Lindsay Lohan is set to return to the screen once again in a new Christmas romcom for Netflix. According to a tweet from Netflix confirming the project, Lohan, 34, will play a \"newly-engaged spoiled hotel heiress,\" who suffers from amnesia a…",
+         "url":"https://www.foxnews.com/entertainment/lindsay-lohan-netflix-christmas-romcom",
+         "urlToImage":"https://static.foxnews.com/foxnews.com/content/uploads/2018/09/lindsaylohan1.jpg",
+         "publishedAt":"2021-05-25T01:21:40Z",
+         "content":"Lindsay Lohan is set to return to the screen.\r\nThe actress, who has only had limited acting roles for several years now, is set to star in a romantic comedy Christmas movie for Netflix, a rep for the… [+2054 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"KRON4"
+         },
+         "author":"Noelle Bellow",
+         "title":"CDC investigates heart inflammation in vaccinated teens - KRON4",
+         "description":"The CDC is looking into reports of heart issues among teenagers and young adults who have received their COVID-19 vaccine.",
+         "url":"https://www.kron4.com/health/coronavirus/cdc-investigates-heart-inflammation-in-vaccinated-teens/",
+         "urlToImage":"https://www.kron4.com/wp-content/uploads/sites/11/2021/05/CC6B7F39442640498377A4D358058541.jpg?w=1280",
+         "publishedAt":"2021-05-25T01:12:30Z",
+         "content":"SAN FRANCISCO, Calif. (KRON) – The CDC is looking into reports of heart issues among teenagers and young adults who have received their COVID-19 vaccine.\r\nThere are just a small number of cases so fa… [+1651 chars]"
+      },
+      {
+         "source":{
+            "id":"politico",
+            "name":"Politico"
+         },
+         "author":"MACKENZIE MAYS",
+         "title":"San Francisco lawmakers: Our city schools exploited state reopening law - POLITICO",
+         "description":"San Francisco Unified offers some of the sparsest classroom instruction in the nation, even though the city has some of the lowest infection rates anywhere in the U.S.",
+         "url":"https://www.politico.com/states/california/story/2021/05/24/san-francisco-lawmakers-our-city-schools-exploited-state-reopening-law-9426509",
+         "urlToImage":"https://static.politico.com/8a/bb/0170ddab40fbbbbaa6a4bdb1613a/gettyimages-1291843516-c.jpg",
+         "publishedAt":"2021-05-25T00:26:11Z",
+         "content":"Stairs lead to the entrance of Abraham Lincoln High School on December 17, 2020 in San Francisco, California. | Justin Sullivan/Getty Images\r\nSan Francisco lawmakers on Monday accused their own city'… [+4436 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Las Vegas Review-Journal"
+         },
+         "author":"Sabrina Schnur, Jonah Dylan",
+         "title":"Nellis AFB aircraft crashes in northeast Las Vegas - Las Vegas Review-Journal",
+         "description":"<p>The pilot of a fighter jet owned and operated by a military contractor died when the aircraft crashed in a northeast Las Vegas neighborhood Monday.</p>",
+         "url":"https://www.reviewjournal.com/post/2362065",
+         "urlToImage":"https://www.reviewjournal.com/wp-content/uploads/2021/05/jetcrash2021.jpg",
+         "publishedAt":"2021-05-25T00:22:30Z",
+         "content":"The pilot of a fighter jet owned and operated by a military contractor died when the aircraft crashed in a northeast Las Vegas neighborhood Monday afternoon, Nellis Air Force Base officials said.\r\nTh… [+5031 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"New York Post"
+         },
+         "author":"Samuel Chamberlain",
+         "title":"More than 500 ex-Biden staffers urge president to condemn Israel - New York Post ",
+         "description":"More than 500 Democratic staffers and former members of President Biden’s campaign team have signed an open letter calling on the president to “unequivocally condemn” Israel.",
+         "url":"https://nypost.com/2021/05/24/more-than-500-ex-biden-staffers-urge-him-to-condemn-israel/",
+         "urlToImage":"https://nypost.com/wp-content/uploads/sites/2/2021/05/1319129251.jpg?quality=90&strip=all&w=1200",
+         "publishedAt":"2021-05-25T00:05:00Z",
+         "content":"More than 500 Democratic staffers and former members of President Biden’s campaign team have signed an open letter calling on the president to “unequivocally condemn” Israel amid the recent conflict … [+2136 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"countynewscenter.com"
+         },
+         "author":"https://www.countynewscenter.com/author/jose-alvarez/",
+         "title":"San Diego County COVID-19 Update – 5-24-2021 - countynewscenter.com",
+         "description":"Here is today’s COVID-19 update from the County Health and Human Services Agency with data through May 23.",
+         "url":"https://www.countynewscenter.com/san-diego-county-covid-19-update-5-24-2021/",
+         "urlToImage":"https://www.countynewscenter.com/wp-content/uploads/coronavirus-1600px.jpg",
+         "publishedAt":"2021-05-24T23:57:37Z",
+         "content":"Here is todays COVID-19 update from the County Health and Human Services Agency with data through May 23.\r\nVaccination Progress:\r\n<ul><li>Doses delivered: More than 4 million.</li><li>Doses administe… [+2724 chars]"
+      },
+      {
+         "source":{
+            "id":null,
+            "name":"Barron's"
+         },
+         "author":"Avi Salzman",
+         "title":"The Cryptocurrencies That Outperformed During Bitcoin's Crash - Barron's",
+         "description":"Polygon, Helium, Celsius, and Maker may not be household names, but they are being explored as potentially useful technologies.",
+         "url":"https://www.barrons.com/articles/cryptocurrencies-bitcoin-51621889072",
+         "urlToImage":"https://images.barrons.com/im-342939/social",
+         "publishedAt":"2021-05-24T23:53:00Z",
+         "content":"Just about the entire cryptocurrency ecosystem has gotten washed out in the past week, as news of government crackdowns and other negative headlines have dominated the discussion. Not every coin has … [+4378 chars]"
+      }
+   ]
+}
